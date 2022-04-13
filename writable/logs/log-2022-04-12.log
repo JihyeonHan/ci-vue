@@ -1,0 +1,210 @@
+CRITICAL - 2022-04-12 20:13:52 --> Class 'Config\AppFiltersCors' not found
+#0 /var/www/html/backend/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/backend/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/backend/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-12 20:16:09 --> Class 'Config\AppFiltersCors' not found
+#0 /var/www/html/backend/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/backend/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/backend/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-12 20:16:13 --> Class 'Config\AppFiltersCors' not found
+#0 /var/www/html/backend/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/backend/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/backend/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-12 20:26:07 --> Class 'Config\AppFiltersCors' not found
+#0 /var/www/html/backend/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/backend/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/backend/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-12 20:26:12 --> Class 'Config\AppFiltersCors' not found
+#0 /var/www/html/backend/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/backend/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/backend/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-12 20:26:37 --> Class 'Config\AppFiltersCors' not found
+#0 /var/www/html/backend/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/backend/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/backend/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-12 20:28:41 --> Class 'Config\AppFiltersCors' not found
+#0 /var/www/html/backend/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/backend/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/backend/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-12 20:32:39 --> Class 'Config\AppFiltersCors' not found
+#0 /var/www/html/backend/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/backend/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/backend/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-12 20:35:09 --> Class 'Config\AppFiltersCors' not found
+#0 /var/www/html/backend/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/backend/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/backend/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-12 20:35:12 --> Class 'Config\AppFiltersCors' not found
+#0 /var/www/html/backend/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/backend/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/backend/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-12 20:37:53 --> Class 'Config\AppFiltersCors' not found
+#0 /var/www/html/backend/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/backend/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/backend/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-12 20:37:55 --> Class 'Config\AppFiltersCors' not found
+#0 /var/www/html/backend/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/backend/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/backend/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-12 20:37:56 --> Class 'Config\AppFiltersCors' not found
+#0 /var/www/html/backend/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/backend/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/backend/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-12 20:37:58 --> Class 'Config\AppFiltersCors' not found
+#0 /var/www/html/backend/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/backend/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/backend/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-12 20:37:59 --> Class 'Config\AppFiltersCors' not found
+#0 /var/www/html/backend/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/backend/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/backend/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-12 20:50:52 --> Class 'Config\AppFiltersCors' not found
+#0 /var/www/html/backend/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/backend/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/backend/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-12 20:50:57 --> Class 'Config\AppFiltersCors' not found
+#0 /var/www/html/backend/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/backend/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/backend/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-12 20:51:31 --> Class 'Config\AppFiltersCors' not found
+#0 /var/www/html/backend/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/backend/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/backend/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-12 20:51:32 --> Class 'Config\AppFiltersCors' not found
+#0 /var/www/html/backend/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/backend/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/backend/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-12 20:51:33 --> Class 'Config\AppFiltersCors' not found
+#0 /var/www/html/backend/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/backend/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/backend/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-12 20:51:34 --> Class 'Config\AppFiltersCors' not found
+#0 /var/www/html/backend/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/backend/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/backend/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-12 20:51:42 --> Class 'Config\AppFiltersCors' not found
+#0 /var/www/html/backend/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/backend/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/backend/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-12 20:51:44 --> Class 'Config\AppFiltersCors' not found
+#0 /var/www/html/backend/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/backend/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/backend/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-12 20:51:45 --> Class 'Config\AppFiltersCors' not found
+#0 /var/www/html/backend/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/backend/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/backend/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-12 20:52:00 --> Class 'Config\AppFiltersCors' not found
+#0 /var/www/html/backend/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/backend/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/backend/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-12 20:52:04 --> Class 'Config\AppFiltersCors' not found
+#0 /var/www/html/backend/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/backend/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/backend/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-12 20:52:41 --> Class 'Config\AppFiltersCors' not found
+#0 /var/www/html/backend/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/backend/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/backend/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-12 20:57:25 --> Class 'Config\AppFiltersCors' not found
+#0 /var/www/html/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-12 20:57:29 --> Class 'Config\AppFiltersCors' not found
+#0 /var/www/html/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-12 20:57:32 --> Class 'Config\AppFiltersCors' not found
+#0 /var/www/html/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-12 20:57:33 --> Class 'Config\AppFiltersCors' not found
+#0 /var/www/html/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-12 20:58:22 --> Class 'Config\AppFiltersCors' not found
+#0 /var/www/html/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-12 20:58:23 --> Class 'Config\AppFiltersCors' not found
+#0 /var/www/html/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-12 20:58:56 --> Class 'Config\AppFiltersCors' not found
+#0 /var/www/html/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-12 20:58:57 --> Class 'Config\AppFiltersCors' not found
+#0 /var/www/html/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-12 20:59:38 --> Class 'Config\AppFiltersCors' not found
+#0 /var/www/html/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-12 20:59:40 --> Class 'Config\AppFiltersCors' not found
+#0 /var/www/html/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-12 20:59:41 --> Class 'Config\AppFiltersCors' not found
+#0 /var/www/html/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-12 21:01:34 --> Class 'Config\AppFiltersCors' not found
+#0 /var/www/html/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-12 21:01:35 --> Class 'Config\AppFiltersCors' not found
+#0 /var/www/html/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-12 21:18:31 --> Class 'Config\AppFiltersCors' not found
+#0 /var/www/html/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-12 21:18:42 --> Class 'Config\AppFiltersCors' not found
+#0 /var/www/html/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
